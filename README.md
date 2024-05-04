@@ -9,7 +9,7 @@ My name is Thomas Bivins and I am a Software Systems Engineer at the [Naval Air 
 -->
 
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomasbiv&layout=compact&count_private=true&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomasbiv&layout=compact&count_private=true&theme=dark&exclude_repo=CDA4203L-TeamLGSB" />
 </a>
 
 
